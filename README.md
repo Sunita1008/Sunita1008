@@ -14,49 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sunita Nandy 👋
 
-I'm a passionate software developer with experience in Java, HTML, CSS, and PHP. Welcome to my GitHub profile! Here you'll find a collection of my open-source projects and contributions.
+🎓 Recent Computer Science graduate | 💻 Aspiring Developer | 🌱 Continuous Learner
+
+Welcome to my GitHub profile! I'm a passionate and driven individual who recently graduated with a degree in Computer Science. My aim is to kickstart my career in software development and contribute to exciting projects. 
 
 🔭 I'm currently working on:
-- A Java-based [Project Name](link to the repository).
-- Enhancing my skills in web development with HTML, CSS, and PHP.
+- Strengthening my programming skills in Java and web technologies.
+- Building my own portfolio website to showcase my work.
 
 🌱 I'm currently learning:
-- [Technology or Skill You're Learning] - Share what you're currently studying or improving upon.
+- Exploring open-source projects and collaboration.
+- Preparing for coding interviews and algorithm challenges.
 
 💬 Ask me about:
-- Anything related to Java development.
-- Web development using HTML, CSS, and PHP.
-- Collaboration on open-source projects.
+- Anything related to programming, and I'll do my best to help.
+- My journey from academia to industry and the challenges I've faced.
 
 📫 How to reach me:
-- You can connect with me on [LinkedIn](your LinkedIn profile link).
-- Check out my personal website: [Your Website](your website URL).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/sunita-nandy-b0913b202/).
+- Email me at -nandysunita08@gmail.com.
 
 ⚡ Fun fact:
-- [Share a fun or interesting fact about yourself.]
+- When I'm not coding, you can find me gardening on the weekends or experimenting with new cooking recipes. 🏞️🍳
 
-### My Projects
-
-Here are some of the projects I've worked on:
-
-- [Project 1 Name](link to the repository) - Short description.
-- [Project 2 Name](link to the repository) - Short description.
-- [Project 3 Name](link to the repository) - Short description.
 
 ### Languages and Tools
 
 - Java
 - HTML
 - CSS
+- SQL
 - PHP
+- Git and GitHub
 
-### GitHub Stats
 
-![Your GitHub Stats](URL to your GitHub Stats image)
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or questions. I'm eager to connect with fellow developers and learn from experienced professionals in the field.
 
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration or questions. I'm always open to new ideas and opportunities.
+Thank you for visiting my GitHub profile! Let's code together and make amazing things happen. 😊
 
-Thank you for visiting my GitHub profile! 😊
 
